@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "number": "TCK-1001",
+    "title": "Login page not loading",
+    "description": "Customer reports that the login page shows a blank screen after entering credentials.",
+    "customer": "Alice Johnson",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-10-05"
+  },
+  {
+    "id": 2,
+    "number": "TCK-1002",
+    "title": "Error 404 on dashboard",
+    "description": "Dashboard page returns a 404 error when trying to access user statistics add more.",
+    "customer": "Michael Brown",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2025-10-06"
+  },
+  {
+    "id": 3,
+    "number": "TCK-1003",
+    "title": "Unable to reset password",
+    "description": "Password reset link expires immediately after receiving the email.",
+    "customer": "Sophia Lee",
+    "priority": "High",
+    "status": "Resolved",
+    "createdAt": "2025-10-03"
+  },
+  {
+    "id": 4,
+    "number": "TCK-1004",
+    "title": "Payment not going through",
+    "description": "Customer reports payment fails during checkout using PayPal.so i need help",
+    "customer": "David Wilson",
+    "priority": "Critical",
+    "status": "Open",
+    "createdAt": "2025-10-07"
+  },
+  {
+    "id": 5,
+    "number": "TCK-1005",
+    "title": "Slow loading time",
+    "description": "The website takes over 10 seconds to load on mobile devices.",
+    "customer": "Emma Davis",
+    "priority": "Low",
+    "status": "In Progress",
+    "createdAt": "2025-10-02"
+  },
+  {
+    "id": 6,
+    "number": "TCK-1006",
+    "title": "Email notifications not received",
+    "description": "Customer not receiving order confirmation or update emails.",
+    "customer": "Liam Martinez",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-10-04"
+  },
+  {
+    "id": 7,
+    "number": "TCK-1007",
+    "title": "Bug in report generation",
+    "description": "Reports show incomplete data for the last month.",
+    "customer": "Olivia Taylor",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-10-06"
+  },
+  {
+    "id": 8,
+    "number": "TCK-1008",
+    "title": "Mobile app crashing",
+    "description": "Android app crashes immediately after opening on some devices.",
+    "customer": "James Anderson",
+    "priority": "Critical",
+    "status": "In Progress",
+    "createdAt": "2025-10-07"
+  },
+  {
+    "id": 9,
+    "number": "TCK-1009",
+    "title": "Subscription auto-renew issue",
+    "description": "Subscription did not auto-renew even though payment details are saved.",
+    "customer": "Ava Thomas",
+    "priority": "Medium",
+    "status": "Resolved",
+    "createdAt": "2025-10-01"
+  },
+  {
+    "id": 10,
+    "number": "TCK-1010",
+    "title": "Incorrect invoice amount",
+    "description": "Customer charged twice for the same order on the invoice.",
+    "customer": "Noah Moore",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-10-08"
+  },
+  {
+    "id": 11,
+    "number": "TCK-1011",
+    "title": "Image upload failing",
+    "description": "Users cannot upload profile images larger than 1MB even though limit is 5MB.",
+    "customer": "Isabella Garcia",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2025-10-05"
+  },
+  {
+    "id": 12,
+    "number": "TCK-1012",
+    "title": "Account locked after update",
+    "description": "Customer account got locked after updating profile information.",
+    "customer": "Ethan Martinez",
+    "priority": "Medium",
+    "status": "Resolved",
+    "createdAt": "2025-10-02"
+  },
+  {
+    "id": 13,
+    "number": "TCK-1013",
+    "title": "Notification sound not working",
+    "description": "Push notifications arrive but no sound plays on mobile.",
+    "customer": "Mia Rodriguez",
+    "priority": "Low",
+    "status": "In Progress",
+    "createdAt": "2025-10-06"
+  },
+  {
+    "id": 14,
+    "number": "TCK-1014",
+    "title": "Two-factor authentication error",
+    "description": "2FA code is not accepted even when correct.",
+    "customer": "Lucas Hernandez",
+    "priority": "Critical",
+    "status": "Open",
+    "createdAt": "2025-10-08"
+  },
+  {
+    "id": 15,
+    "number": "TCK-1015",
+    "title": "Broken link in footer",
+    "description": "The 'Privacy Policy' link in the footer redirects to a 404 page.",
+    "customer": "Charlotte Clark",
+    "priority": "Low",
+    "status": "Resolved",
+    "createdAt": "2025-10-01"
+  }
+]
